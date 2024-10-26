@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adilene</h1>
 <h3 align="center">A passionate Compsi Major</h3>
 
-- I'm currently a student at **The University of San Francisco**
+- **I'm currently a student at The University of San Francisco**
 
-- I'm majoring in **Computer Science**
+- **I'm majoring in Computer Science**
 
-- ⚡ Fun fact **I'm a Synchronized Swimmer!**
+- ⚡ **Fun fact I'm a Synchronized Swimmer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
