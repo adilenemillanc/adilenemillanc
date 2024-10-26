@@ -1,12 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Adilene</h1>
+<h3 align="center">A passionate Compsi Major</h3>
 
-<!--
-**adilenemillanc/adilenemillanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm currently a student at **The University of San Francisco**
 
-Here are some ideas to get you started:
+- I'm majoring in **Computer Science**
 
-- I'm currently a Undergrad Student at the University of San Francisco!
-- 🌱 I’m currently studying Computer Science.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a Syncronized Swimmer!
--->
+- ⚡ Fun fact **I'm a Synchronized Swimmer!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
